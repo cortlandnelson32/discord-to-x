@@ -1,0 +1,19 @@
+node_modules/
+.env
+# build
+dist/
+
+*.log
+logs/
+
+# os
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# test
+coverage/
