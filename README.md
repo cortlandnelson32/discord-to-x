@@ -1,5 +1,10 @@
 # Discord ↔ X Journal System
 
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
 A two-way synchronization system between Discord and X (Twitter) for trading journal accountability, education, and public engagement.
 
 ## Features
